@@ -1674,16 +1674,3 @@ return page
 end
 return tap
 end--by ดิส แจกทุกอย่างทีมี https://discord.gg/NvGY2vEkV2
-
-
-local window = ui:win()
-local tap1 = window:addtap("Tab1")
-local tap2 = window:addtap("Tab2")
-local page1 = tap1:addpage()
-local page4 = tap1:addpage()
-local page2 = tap1:addpage()
-local page3 = tap1:addpage()
-local page5 = tap1:addpage()
-local page6 = tap1:addpage()--by ดิส แจกทุกอย่างทีมี https://discord.gg/NvGY2vEkV2
-page1:Ti("Title")
-
