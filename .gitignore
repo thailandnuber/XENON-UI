@@ -1676,4 +1676,3 @@ return tap
 end--by ดิส แจกทุกอย่างทีมี https://discord.gg/NvGY2vEkV2
 
 
-local window = ui:win()
